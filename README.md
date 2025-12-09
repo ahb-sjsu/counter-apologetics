@@ -1,6 +1,6 @@
 # Counter-Apologetics
 
-This repository hosts essays and draft papers exploring logic and mathematics, theism, and apologetics.
+This repository hosts essays and draft papers exploring logic, mathematics, theism, and apologetics.
 
 ## Current contents
 
