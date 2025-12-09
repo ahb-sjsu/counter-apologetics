@@ -15,4 +15,3 @@ This repository hosts essays and draft papers exploring logic, mathematics, thei
   - Treats logic and mathematics as **tools** rather than metaphysical mirrors.  
   - Uses **Gödel’s incompleteness theorems** to argue no formal system can guarantee metaphysical conclusions.  
   - Uses **quantum theory** to show that classical logic and causation are domain-limited, not universally binding.  
-  - Concludes that these arguments fail as *demonstrations* of God’s existence (without claiming to disprove God).
