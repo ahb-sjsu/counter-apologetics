@@ -2,6 +2,41 @@
 
 This repository hosts essays and draft papers exploring logic, mathematics, theism, and Christian apologetics from a critical and textual-analytical perspective.
 
+## Argument map
+
+```mermaid
+flowchart TB
+    subgraph PRAG[Pragmatist Rebuttal]
+      KAL[Kalam]
+      CON[Contingency]
+      MOR[Moral Argument]
+      ONT[Ontological]
+      GOD[Godel incompleteness]
+      QM[Quantum domain-limit]
+    end
+
+    subgraph DAV[Davidic Descent]
+      ZERA[Hebrew zera<br/>biological paternal descent]
+      LUKE[Luke 1:36<br/>Mary Levitical]
+      JEC[Jeconiah curse<br/>Jeremiah 22:24-30]
+    end
+
+    subgraph TEMP[Temple Incident]
+      LAW[Jesus under Mosaic Law]
+      ACT[Assault + property destruction]
+      RESP[Apologetic responses<br/>collapse to divine command]
+      EUTH[Euthyphro dilemma]
+    end
+
+    KAL --> GOD
+    CON --> GOD
+    MOR --> QM
+    ONT --> GOD
+    ZERA --> JEC
+    LUKE --> JEC
+    LAW --> ACT --> RESP --> EUTH
+```
+
 ## Current contents
 
 - **A Pragmatist Rebuttal to Logical and Metaphysical Arguments for God** (`A Pragmatist Rebuttal to Logical and Metaphysical Arguments for God.pdf`)  
