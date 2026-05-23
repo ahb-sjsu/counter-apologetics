@@ -6,7 +6,6 @@
 ---
 
 ## Abstract
-# Abstract
 
 This paper argues that the four principal deductive arguments for God's existence: the Kalam cosmological, contingency, moral, and ontological arguments, share a common dependence on treating logic, modal semantics, and causal principles as transparent windows onto metaphysical structure. Developing a pragmatist, instrumentalist framework, it contends that these formal tools are revisable, domain-relative human instruments shaped by evolutionary and empirical constraints, whose internal structure cannot license metaphysical conclusions about necessary existence. Three formal results independently reinforce the case: Gödel's incompleteness theorems, the non-distributive lattice structure of quantum-mechanical propositions, and the model-theoretic gap between Kripke-frame validity and truth-in-reality.
 
