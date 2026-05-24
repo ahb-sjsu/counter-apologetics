@@ -1,6 +1,7 @@
 # Instruments, Not Oracles: Incompleteness, Quantum Logic, and the Limits of Deductive Natural Theology
 
 **Andrew H. Bond**
+
 **San Jose State University**
 
 ---
