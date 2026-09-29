@@ -65,3 +65,10 @@ flowchart TB
   - The temple incident — recorded in all four Gospels — constitutes precisely such prohibited conduct.
   - Surveys standard apologetic responses (righteous anger, divine authority, prophetic action, Phinehas precedent) and argues each fails or collapses into **divine command theory**.
   - Explores the **Euthyphro dilemma** as it applies to claims of Jesus's moral perfection.
+
+## License
+
+This work is licensed under the [Creative Commons Attribution 4.0 International
+License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0); see [LICENSE](LICENSE). You may share and adapt it
+for any purpose, provided you credit Andrew H. Bond, link to the license, and
+indicate if changes were made.
