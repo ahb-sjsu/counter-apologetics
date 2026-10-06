@@ -1,0 +1,19 @@
+PASS ontological argument valid on every symmetric frame (n<=3) | 1604 frame/valuation/world cases
+PASS S5 frames: conclusion is necessary existence
+PASS reverse argument valid on every reflexive frame (n<=3) | 1570 cases
+PASS S4 countermodels exist | 68 found
+PASS T countermodels exist | 110 found
+PASS both possibility premises + premise 2 never jointly hold on reflexive symmetric frames
+PASS Frechet lower bound at a=b=3/5 is 1/5
+PASS premises each >1/2 with conjunction lower bound <1/2 is a nonempty region | (a <= 1) & (b <= 1) & (1/2 < a) & (1/2 < b) & (a < 3/2 - b)
+PASS omission floor tr(P Pi) = 1
+PASS true distortion -> floor as theta -> 0 | theta + 1
+PASS rate diverges as theta -> 0
+PASS commission tax at P=m equals (1/2) log(M/m) (sharp, r=1)
+PASS flip: aware code reconstructs worse | tr 9/2 vs 3
+PASS flip: aware code serves the consumer better | consumer 1/2 vs 1
+PASS A meet (B join C) = A but (A meet B) join (A meet C) = 0 | dims 1 vs 0
+PASS independent fair bits: kept bit says nothing about discarded bit
+PASS correlated fair bits (q=9/10): kept bit carries information | 0.531004
+
+17/17 PASS
