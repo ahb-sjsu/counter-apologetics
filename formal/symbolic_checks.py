@@ -1,4 +1,4 @@
-"""Symbolic and exhaustive checks for 'The Deductive Arguments for God Do Not Compel Assent'.
+"""Symbolic and exhaustive checks for 'Four Deductive Arguments for God Have Not Been Shown to Compel Assent'.
 
 Independent of the Lean development. Run: python symbolic_checks.py
 Prints PASS/FAIL per check and exits nonzero on any FAIL.

@@ -1,4 +1,4 @@
-# Machine checks for "The Deductive Arguments for God Do Not Compel Assent"
+# Machine checks for "Four Deductive Arguments for God Have Not Been Shown to Compel Assent"
 
 These files check the logical and arithmetic claims in the paper. They do not check any philosophical premise. Whether a premise is warranted is the paper's argument, and nothing here bears on it.
 

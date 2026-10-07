@@ -80,3 +80,14 @@ What is NOT machine-checked: any philosophical premise. The checks cover logic a
 | 3 | Task success is not fidelity | §8.5 now claims only "tested performance on tested tasks". Accuracy needs its own assessment |
 | 3' | User: composition/division | The old wording inferred component accuracy from whole-system success (division; errors can offset). The §2 model sentence was fixed the same way. Craig's 2008 criterion is the composition counterpart, already covered by Lean `old_criterion_inadequate` |
 | 4 | Lean cannot establish equal support | §6 no longer says "same kind and degree". It now says: apparent coherence alone gives no demonstrated basis for privileging the theistic premise. Undetected contradiction does not equal equal warrant. The same weakening is applied to §2 Q3, §8.1, the abstract and the conclusion. Note 4 says the checks do not show equal support |
+
+---
+
+# Round 4 (2026-10-05): fourth critique (three points)
+| Point | Done in v3 |
+|---|---|
+| §2: compatibility with a rival does not mean the support fails to discriminate | Q3 now asks whether the support presented has been shown to favour the premise over the rival. It notes that compatible support can still favour one side. "Opposing intuition of equal weight" removed. Intro question and §8.1 aligned |
+| §8.1: retained information is not sufficient for reliability | Replaced the conditional with the limitation alone. Reflection cannot supply absent information. Whether reflection over retained information improves reliability needs separate assessment |
+| Conclusion: "meets" is stronger than "has been shown to meet" | Abstract, intro and conclusion now say "has not been shown to meet". The claim is scoped to the presentations examined (Craig 2008, Craig and Sinclair 2009, Pruss 2009, Plantinga 1974), with the explicit note that a non-theist may accept premises on independent grounds |
+
+Title changed (owner, 2026-10-06) to "Four Deductive Arguments for God Have Not Been Shown to Compel Assent" to match the scoped thesis.
