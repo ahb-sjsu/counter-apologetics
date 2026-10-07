@@ -1,0 +1,14 @@
+'CounterApologetics.Modal.ontological_valid_B' does not depend on any axioms
+'CounterApologetics.Modal.ontological_S5_necessary' does not depend on any axioms
+'CounterApologetics.Modal.reverse_ontological' does not depend on any axioms
+'CounterApologetics.Modal.reverse_ontological_S5' does not depend on any axioms
+'CounterApologetics.Modal.rivals_incompatible' does not depend on any axioms
+'CounterApologetics.Modal.S4_countermodel' depends on axioms: [propext]
+'CounterApologetics.Modal.vanInwagen_collapse' does not depend on any axioms
+'CounterApologetics.Modal.vanInwagen_needs_entailment' does not depend on any axioms
+'CounterApologetics.Prob.conj_le_left' depends on axioms: [propext, Classical.choice, Quot.sound]
+'CounterApologetics.Prob.conclusion_ge_conj' depends on axioms: [propext, Classical.choice, Quot.sound]
+'CounterApologetics.Prob.conj_not_majority' depends on axioms: [propext, Classical.choice, Quot.sound]
+'CounterApologetics.Prob.old_criterion_inadequate' depends on axioms: [propext, Classical.choice, Quot.sound]
+'CounterApologetics.Prob.frechet' depends on axioms: [propext, Classical.choice, Quot.sound]
+AX_EXIT=0
